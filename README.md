@@ -8,5 +8,7 @@
 4. Colocar un poco de aceite en una sarten 
 5. Agregar sal
 6. Esperar a que obtenga un tono distinto
-7. Servir
-8. Agregar mostaza y ketchup
+7. Servir en un plato
+8. Con pan
+9. Agregar mostaza y ketchup
+10. 
