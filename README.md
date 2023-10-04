@@ -9,3 +9,4 @@
 5. Agregar sal
 6. Esperar a que obtenga un tono distinto
 7. Servir
+8. Agregar mostaza y ketchup
